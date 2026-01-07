@@ -14,7 +14,7 @@ export default function Home() {
             This site is currently being built.
           </p>
           <p className="text-lg text-gray-600 leading-relaxed">
-            Visit <a href="https://greenmedia.com" className="font-semibold text-green-600 hover:text-green-700 underline decoration-green-400 transition-colors">greenmedia.com</a> to explore other sites in our network.
+            Visit <a href="https://justbegreenmedia.com" className="font-semibold text-green-600 hover:text-green-700 underline decoration-green-400 transition-colors">justbegreenmedia.com</a> to explore other sites in our network.
           </p>
         </div>
         
